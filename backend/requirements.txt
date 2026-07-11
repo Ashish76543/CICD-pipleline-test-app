@@ -3,8 +3,4 @@ uvicorn
 pydantic
 flake8
 pytest
-<<<<<<< HEAD
-httpx
-=======
 httpx2
->>>>>>> a2c25da (unit tetsing files addedd)
