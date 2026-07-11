@@ -23,7 +23,7 @@ function App()
     setTodos((prev)=>prev.filter((k,i)=>i!==index))
   }
    return (<div>
-    <h1>CICD</h1>
+    <h1>ContinuousICD</h1>
     <TodoInput addTodo={addTodo}></TodoInput>
     <TodoList todos={todos}
     deleteTodo={deleteTodo}>
